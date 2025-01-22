@@ -1,3 +1,5 @@
 instaloader
 google-generativeai
 requests
+gunicorn
+werkzeug==2.0.3
